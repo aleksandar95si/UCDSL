@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/USDSL/classes_gen/
+/languages/USDSL/generator/classes_gen/
+/languages/USDSL/sandbox/classes_gen/
